@@ -1,0 +1,2 @@
+for Multi cursor use Alt+click
+p*5
